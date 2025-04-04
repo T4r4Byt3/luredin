@@ -9,7 +9,7 @@ It’s a parody of social media and influencer culture, disguised as a desktop g
 
 🌟 Post inspirational content with no real meaning.
 
-📈 Watch your follower count grow as you climb the ranks—from Junior Growth Influencer to G.O.A.T of Strategic Synergy.
+📈 Watch your follower count grow as you climb the ranks—from Assofiate Growth Influencerof the Status Quo, to G.O.A.T of Strategic Synergy.
 
 😇 Bask in a flood of supportive AI-generated comments… until one of them calls you out. Game over.
 
@@ -17,23 +17,26 @@ It’s a parody of social media and influencer culture, disguised as a desktop g
 
 📀HOW TO PLAY
 
-1. Download the EXE:[Insert your download link here, or say "Coming soon"]
-
-2. Launch it:No need to install anything else. Just double-click and begin your climb up the influence ladder.
-
-3. Optional – Contribute to the Code:The original Python file is available for contributors or curious minds. Feel free to fork and extend the nonsense.
+1. Download the EXE - Allow your virus scan to do its due dilligence to scan it. 
+2. Launch it: No need to install anything else. Just double-click and begin your climb up the influence ladder.
+3. Start in the sign in box by creating your new Thought Leader Moniker, and clicking the Synergize Profile button.
+4. Entering a text prompt in the box, and click "Synthesize Post!" button and watch the magic of word salad happen.
+5. (Optional) View the number of comments, and followers below your post. Your follower count may increase or decrease, depending on the number of positive or negative comments you receive. There's a "swing" in there, the higher you get, and a nuclear lose condition if one of your "followers" discovers that you've been using AI to bot out your synergytical thought leadership this whole time.
+6. You can generate as little or as many posts as you want for your given workday - just like an IRL influencer.
+7. You can also end the workday without making any posts, just to see what happens there (you might ose followers, because you're expected to feed the technofeudalistic fiefdom with your vibes).
+8. You can choose to read the comments or not.
+9. Clicking the "My Work is Done!" button will save your game, and will tally your score for the day, change your title prefixes once your follower threshold is met, etc.
+10. Optional – Contribute to the Code: The original Python file is available for contributors or curious minds. Feel free to fork and extend the nonsense. See Contributions section for ideas.
 
 pip install customtkinter
 python luredin_ctk.py
 
-4. There is no 4.
-
 
 📂 Repo Contents
 
-* luredin_ctk.py: The source code behind the satire. It might be spaghetti. I built this on a lark, for the LOL-factor.
+* src/" luredin_ctk.py: The source code behind the satire. 
 
-* dist/: (Optional) Built executable, ready to run on Windows.
+* luredin.exe ( Built executable, ready to run on Windows)
 
 * README.md: You’re reading it right now. 
 
@@ -63,3 +66,8 @@ Pull requests welcome. Just keep the tone clever—not cruel, m'kay?
 ⚠️ Disclaimer
 
 All satire. No shade. (Okies, maybe just a teensy bit-o-shade.)
+
+
+BUGS & KNOWN ISSUES
+------
+1. Clicking the X- button the top right of the sign-in box doesn't close the box.  Workaround: Type a name, click "Synergize Profile Button!" you should be able to close out.
