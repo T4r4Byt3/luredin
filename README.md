@@ -25,7 +25,7 @@ It’s a parody of social media and influencer culture, disguised as a desktop g
 5. You can generate as little or as many posts as you want for your given workday - just like an IRL influencer.
 6. You can also end the workday without making any posts, just to see what happens there (you might ose followers, because you're expected to feed the technofeudalistic fiefdom with your vibes).
 7. You can choose to read the comments or not.
-8. Clicking the "My Work is Done!" button will save your game, and will tally your score for the day, change your title prefixes, etc.
+8. Clicking the "My Work is Done!" button will save your game, and will tally your score for the day, change your title prefixes once your follower threshold is met, etc.
 9. Optional – Contribute to the Code:The original Python file is available for contributors or curious minds. Feel free to fork and extend the nonsense. See Contributions section for ideas.
 
 pip install customtkinter
