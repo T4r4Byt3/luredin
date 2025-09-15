@@ -9,14 +9,19 @@ It’s a parody of social media and influencer culture, disguised as a desktop g
 
 🌟 Post inspirational content with no real meaning.
 
+<<<<<<< HEAD
 📈 Watch your follower count grow as you climb the ranks—from Assofiate Growth Influencerof the Status Quo, to G.O.A.T of Strategic Synergy.
+=======
+📈 Watch your follower count grow as you climb the ranks.  From "Associate Growth Influencer of the Status Quo", to "G.O.A.T of Strategic Synergy".
+>>>>>>> 990defffa098aae3d44e017bb087629c579cf6c4
 
-😇 Bask in a flood of supportive AI-generated comments… until one of them calls you out. Game over.
+😇 Bask in a flood of simulated supportive AI-generated comments… until one of them calls you out. Game over.
 
 💼 Use corporate buzzwords like “moving the needle,” “leveraging core competencies,” and “embracing ambiguity” to become the guru you were always meant to be.
 
 📀HOW TO PLAY
 
+<<<<<<< HEAD
 1. Download the EXE - Allow your virus scan to do its due dilligence to scan it. 
 2. Launch it: No need to install anything else. Just double-click and begin your climb up the influence ladder.
 3. Start in the sign in box by creating your new Thought Leader Moniker, and clicking the Synergize Profile button.
@@ -27,6 +32,17 @@ It’s a parody of social media and influencer culture, disguised as a desktop g
 8. You can choose to read the comments or not.
 9. Clicking the "My Work is Done!" button will save your game, and will tally your score for the day, change your title prefixes once your follower threshold is met, etc.
 10. Optional – Contribute to the Code: The original Python file is available for contributors or curious minds. Feel free to fork and extend the nonsense. See Contributions section for ideas.
+=======
+1. Download the EXE. 
+2. Launch it: No need to install anything else. Just double-click and begin your climb up the influence ladder by creating your new Moniker, and clicking the Synergize Profile button.
+3. Enter a text prompt in the box (any topic, any word, anything at all), and click "Synthesize Post!" button and watch the magic of word salad happen.
+4. (Optional) View the number of comments, and followers below your post. Your follower count may increase or decrease, depending on the number of positive or negative comments you receive. There's a "swing" in there, the higher you get, and a nuclear lose condition if one of your "followers" discovers that you've been using AI to bot out your synergytical thought leadership this whole time.
+5. You can generate as little or as many posts as you want for your given workday - just like an IRL influencer.
+6. You can also end the workday without making any posts, just to see what happens there (you might lose followers, because you're expected to feed the technofeudalistic fiefdom with your vibes).
+7. You can choose to read the comments or not.
+8. Clicking the "My Work is Done!" button will save your game, and will tally your score for the day, change your title prefixes once your follower threshold is met, etc.
+9. Optional – Contribute to the Code:The original Python file is available for contributors or curious minds. Feel free to fork and extend the nonsense. See Contributions section for ideas.
+>>>>>>> 990defffa098aae3d44e017bb087629c579cf6c4
 
 pip install customtkinter
 python luredin_ctk.py
@@ -43,7 +59,7 @@ python luredin_ctk.py
 
 🧪 Contributions
 
-Yes, satire is a collaborative art.
+Satire can be a collaborative art.
 
 Want to:
 
